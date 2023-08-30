@@ -1,0 +1,1 @@
+Initial example of HTML skills learned through The Odin Project.
